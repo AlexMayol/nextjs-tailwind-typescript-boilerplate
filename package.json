@@ -20,7 +20,7 @@
     "eslint-config-next": "13.2.4",
     "eslint-config-prettier": "^8.8.0",
     "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.7",
+    "tailwindcss": "^3.3.1",
     "typescript": "^5.0.2"
   },
   "packageManager": "yarn@3.1.1"
