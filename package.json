@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@total-typescript/ts-reset": "^0.5.1",
-    "@types/node": "20.10.0",
+    "@types/node": "20.10.4",
     "@types/react": "18.2.41",
     "autoprefixer": "^10.4.16",
     "eslint": "8.55.0",
